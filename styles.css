@@ -1,0 +1,22 @@
+.carlos-movie,
+.carlos-book,
+.carlos-hobby {
+  height: 300px;
+}
+.carlos-name {
+  color: white;
+  background-color: black;
+}
+.carlos-selections {
+  background-color: tomato;
+  color: teal;
+}
+.carlos-section {
+  background-image: linear-gradient(to bottom right, red, yellow
+  );
+}
+
+.sample-omar {
+  margin: 30px;
+  
+}
